@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "reddit-server"
+		},
+		{
+			"path": "reddit-web"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true,
+		"editor.tabSize": 2,
+		"editor.wordWrap": "bounded"
+	}
+}
